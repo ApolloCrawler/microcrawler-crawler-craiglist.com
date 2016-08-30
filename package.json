@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ApolloCrawler/microcrawler-crawler-craiglist.com/issues"
   },
-  "homepage": "https://github.com/ApolloCrawler/microcrawler-crawler-craiglist.com#readme"
+  "homepage": "https://github.com/ApolloCrawler/microcrawler-crawler-craiglist.com#readme",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  }
 }
